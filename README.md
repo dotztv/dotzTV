@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![X3ditz's GitHub stats](https://github-readme-stats.vercel.app/api?username=X3ditz)](https://github.com/anuraghazra/github-readme-stats)
-[![My Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=X3ditz)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=X3ditz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
