@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![X3ditz's GitHub stats](https://github-readme-stats.vercel.app/api?username=X3ditz&theme=midnight-purple&hide=prs,contribs,issues&count_private=true&show_icons=true&include_all_commits=true&custom_title=X3ditz's GitHub Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![X3ditz's GitHub stats](https://github-readme-stats.vercel.app/api?username=X3ditz&theme=midnight-purple&hide=prs,contribs,issues&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=X3ditz&theme=midnight-purple&layout=compact&custom_title=My Top Programming Languages)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=X3ditz&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ------------------------------------------------------------------------------
 [![Focused Repo](https://github-readme-stats.vercel.app/api/pin/?username=X3ditz&repo=x3.py&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
