@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-These cool stats were made with anuraghazra's GitHub Readme Stats, It's repo can be found [here](https://github.com/anuraghazra/github-readme-stats).
+##### These cool stats were made with anuraghazra's GitHub Readme Stats, It's repo can be found [here](https://github.com/anuraghazra/github-readme-stats).
 ----------------------------------------------------------------------------
 
 
