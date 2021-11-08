@@ -5,6 +5,14 @@
 ##### These cool stats were made with anuraghazra's GitHub Readme Stats, It's repo can be found [here](https://github.com/anuraghazra/github-readme-stats).
 ----------------------------------------------------------------------------
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=X3ditz&theme=midnight-purple&hide=prs,issues&count_private=true&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X3ditz&theme=midnight-purple&layout=compact" />
+</a>
+
+
 
 [![X3ditz's GitHub stats](https://github-readme-stats.vercel.app/api?username=X3ditz&theme=midnight-purple&hide=prs,issues&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![My Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=X3ditz&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
