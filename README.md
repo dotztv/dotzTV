@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm X3ditz, A gamer that hopes to be a professional programmer one day, Here are some stats!
 
 <!--
 **X3ditz/X3ditz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
