@@ -1,4 +1,4 @@
-### Hi there, I'm X3ditz, A gamer that hopes to be a professional programmer one day, I also sometimes stream on my [Twitch](https://twitch.tv/x3ditz)!
+### Hi there, I'm X3ditz, A gamer that hopes to be a professional programmer one day, I also sometimes stream on my [Twitch](https://twitch.tv/x3ditz) and rarely use my <img src= http://i.imgur.com/wWzX9uB.png>[Twitter](https://twitter.com/x3ditz)
 
 <!--
 **X3ditz/X3ditz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
