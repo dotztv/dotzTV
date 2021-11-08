@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 [![My Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=X3ditz&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ------------------------------------------------------------------------------
-[![Focused Repo](https://github-readme-stats.vercel.app/api/pin/?username=X3ditz&repo=x3.py&theme=midnight-purple&show_owner=true%custom_title=Focused)](https://github.com/anuraghazra/github-readme-stats)
+[![Focused Repo](https://github-readme-stats.vercel.app/api/pin/?username=X3ditz&repo=x3.py&theme=midnight-purple&show_owner=true&custom_title=Focused)](https://github.com/anuraghazra/github-readme-stats)
