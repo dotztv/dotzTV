@@ -1,6 +1,6 @@
 ### Hi there, I'm X3ditz, A gamer that hopes to be a professional programmer one day, I also sometimes stream on my <img src= https://www.clipartmax.com/png/full/279-2791976_black-twitch-logo-transparent.png width="20" height="20">[Twitch](https://twitch.tv/x3ditz) and rarely use my <img src= http://i.imgur.com/wWzX9uB.png>[Twitter](https://twitter.com/x3ditz)
 
-###If you have any questions about me you can goto my X3ditz repo and make an issue there with a question, There probably be any there anyways because i am unrelevant lol
+### If you have any questions about me you can goto my X3ditz repo and make an issue there with a question, There probably be any there anyways because i am unrelevant lol
 
 ##### These cool stats were made with anuraghazra's GitHub Readme Stats, It's repo can be found [here](https://github.com/anuraghazra/github-readme-stats).
 ----------------------------------------------------------------------------
