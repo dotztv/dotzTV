@@ -7,7 +7,7 @@
 ##### These cool stats were made with anuraghazra's GitHub Readme Stats, It's repo can be found [here](https://github.com/anuraghazra/github-readme-stats).
 ----------------------------------------------------------------------------
 
-[![Simplicity's GitHub stats](https://github-readme-stats.vercel.app/api?username=X3ditz&theme=midnight-purple&hide=prs,issues&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![My Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=X3ditz&theme=midnight-purple&layout=compact&hide-title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Simplicity's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotzSimplicity&theme=midnight-purple&hide=prs,issues&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dotzSimplicity&theme=midnight-purple&layout=compact&hide-title=true)](https://github.com/anuraghazra/github-readme-stats)
  
 ---------------------------------------------------------------------------
