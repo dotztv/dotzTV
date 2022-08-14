@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------
 
-### Hi there, I'm dotzSimplicity, A bad gamer that hopes to be a professional programmer one day, I also sometimes stream on my <img src= https://www.clipartmax.com/png/full/279-2791976_black-twitch-logo-transparent.png width="20" height="20">[Twitch](https://twitch.tv/X3Simplicity)
+### Hi there, I'm dotzSimplicity, A bad gamer that hopes to be a professional programmer one day, I also sometimes stream on my <img src= https://www.clipartmax.com/png/full/279-2791976_black-twitch-logo-transparent.png width="20" height="20">[Twitch](https://twitch.tv/dotzSimplicity)
 
 #### If you have any questions about me you can goto my dotzSimplicity repo and make an issue there with a question
 
