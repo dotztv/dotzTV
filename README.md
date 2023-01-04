@@ -11,3 +11,4 @@
 [![My Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dotzSimplicity&theme=midnight-purple&layout=compact&hide-title=true)](https://github.com/anuraghazra/github-readme-stats)
  
 ---------------------------------------------------------------------------
+![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=for-the-badge)
