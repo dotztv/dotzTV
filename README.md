@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------
 
-### Hi there, I'm dotzSimplicity, A teenager wanting to learn how to program, currently learning Java, just so i can joke around in minecraft, I also have some small knowledge of Web Development (HTML, CSS and JS) and Python, Not much but its something
+### Hi there, I'm dotzSimplicity, A teenager wanting to learn how to program, currently learning Java, just so I can joke around in Minecraft, I Also have some small knowledge of Web Development (HTML, CSS and JS) and Python, Not much but its something
 
 ### If you have any questions about me you can goto my dotzSimplicity repo and make an issue there with a question
 
