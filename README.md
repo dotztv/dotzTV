@@ -11,5 +11,5 @@
 [![My Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dotzSimplicity&theme=midnight-purple&layout=compact&hide-title=true)](https://github.com/anuraghazra/github-readme-stats)
  
 ---------------------------------------------------------------------------
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=for-the-badge)
-honestly, i've probably just reloaded the page so many times there's no way i have this much
+![GitHub followers](https://img.shields.io/github/followers/dotzsimplicity?color=i&style=for-the-badge)
+![Twitch Status](https://img.shields.io/twitch/status/dotsimplicity?style=for-the-badge)
