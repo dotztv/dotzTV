@@ -1,6 +1,8 @@
 ----------------------------------------------------------------------------
 
-### Hi there, I'm dotzSimplicity, A teenager wanting to learn how to program, currently learning Java, just so I can joke around in Minecraft, I Also have some small knowledge of Web Development (HTML, CSS and JS) and Python, Not much but its something
+### Hi there, I'm dotzSimplicity, A teenager wanting to learn how to code
+
+### I have some knowledge I Web Development, Python and Java
 
 ### If you have any questions about me you can goto my dotzSimplicity repo and make an issue there with a question
 
@@ -12,4 +14,4 @@
  
 ---------------------------------------------------------------------------
 ![GitHub followers](https://img.shields.io/github/followers/dotzsimplicity?color=i&style=for-the-badge)
-![Twitch Status](https://img.shields.io/twitch/status/dotsimplicity?style=for-the-badge)
+![Twitch Status](https://img.shields.io/twitch/status/dotzsimplicity?style=for-the-badge)
