@@ -2,9 +2,8 @@
 
 ### Hi there, I'm dotzSimplicity, A teenager wanting to learn how to code
 
-### I have some knowledge I Web Development, Python and Java
-
-### If you have any questions about me you can goto my dotzSimplicity repo and make an issue there with a question
+### My goal so far is to learn how to make a game, Using Unity and C#
+#### Obviously as normal i'm not doing that and completely falling of track
 
 #### These cool stats were made with anuraghazra's GitHub Readme Stats, It's repo can be found [here](https://github.com/anuraghazra/github-readme-stats).
 ----------------------------------------------------------------------------
