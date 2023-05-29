@@ -6,6 +6,7 @@
 #### Obviously as normal i'm not doing that and completely falling of track
 
 #### These cool stats were made with anuraghazra's GitHub Readme Stats, It's repo can be found [here](https://github.com/anuraghazra/github-readme-stats).
+#### or by clicking on the stats themselves
 ----------------------------------------------------------------------------
 
 [![Simplicity's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotzSimplicity&theme=midnight-purple&hide=prs,issues&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
