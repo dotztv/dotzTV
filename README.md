@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------
 
-### Hi there, I'm dotzSimplicity, A teenager wanting to learn how to code
+### Hi there, I'm dotzTV (AKA dotz), A teenager wanting to learn how to code
 #### Obviously as normal i'm not doing that and completely falling out of track...
 
 #### These cool stats were made with anuraghazra's GitHub Readme Stats, It's repo can be found [here](https://github.com/anuraghazra/github-readme-stats).
