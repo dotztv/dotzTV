@@ -7,9 +7,9 @@
 #### or by clicking on the stats themselves
 ----------------------------------------------------------------------------
 
-[![Simplicity's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotzSimplicity&theme=midnight-purple&hide=prs,issues&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![My Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dotzSimplicity&theme=midnight-purple&layout=compact&hide-title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Simplicity's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotzTV&theme=midnight-purple&hide=prs,issues&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dotzTV&theme=midnight-purple&layout=compact&hide-title=true)](https://github.com/anuraghazra/github-readme-stats)
  
 ---------------------------------------------------------------------------
-![GitHub followers](https://img.shields.io/github/followers/dotzsimplicity?color=i&style=for-the-badge)
-![Twitch Status](https://img.shields.io/twitch/status/dotzsimplicity?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/dotztv?color=i&style=for-the-badge)
+![Twitch Status](https://img.shields.io/twitch/status/tvdotz?style=for-the-badge)
