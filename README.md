@@ -1,7 +1,7 @@
 ----------------------------------------------------------------------------
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7A4&random=false&width=435&lines=Hello+there!;I+am+dotz)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7A4&random=true&width=520&lines=Just+another+random+guy+learning+to+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7A4&random=false&width=435&lines=Just+another+random+guy+learning+to+code;How+are+you%3F)](https://git.io/typing-svg)
 
 #### These cool stats were made with anuraghazra's GitHub Readme Stats, It's repo can be found [here](https://github.com/anuraghazra/github-readme-stats).
 ----------------------------------------------------------------------------
