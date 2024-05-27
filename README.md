@@ -1,9 +1,10 @@
 ----------------------------------------------------------------------------
 
 # Hi there! I'm dotzTV, aka dotz
-## I'm just another random guy wanting to code as a hobby. Currently my mission is to learn Kotlin.
-After I learn Kotlin, my project will be a simple chatting platform using networking.
+## A self-taught programmer from Poland/Norway
+Well, not a programmer just yet. It's a hobby on the side, alongside streaming and gaming
 
+### I'm currently learning Kotlin (unless I stopped and didn't update the readme)
 ### Languages I can comfortably code in:
  - none so far, i'm stupid
 ### Languages I'm sort of familiar with
