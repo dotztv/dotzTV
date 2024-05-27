@@ -4,9 +4,9 @@
 ## I'm just another random guy wanting to code as a hobby. Currently my mission is to learn Kotlin.
 After I learn Kotlin, my project will be a simple chatting platform using networking.
 
-## Languages I can comfortably code in:
+### Languages I can comfortably code in:
  - none so far, i'm stupid
-## Languages I'm sort of familiar with
+### Languages I'm sort of familiar with
 As in I know the bare basics and can make simple programs
 - Python
 - Java
