@@ -16,3 +16,7 @@ todo: add known languages, someday
 ---------------------------------------------------------------------------
 ![GitHub followers](https://img.shields.io/github/followers/dotztv?color=i&style=for-the-badge)
 ![Twitch Status](https://img.shields.io/twitch/status/tvdotz?style=for-the-badge)
+---------------------------------------------------------------------------
+#### Just a test, these stats below are not important
+[![osu! signature card](/skills?user=dotztv&mode=std&lang=en&round_avatar=true&animation=true&hue=255&ranking_display=cycle)](https://osu.ppy.sh/u/dotztv)
+[![osu! signature card](/skills?user=dotztv&mode=std&lang=en&round_avatar=true&animation=true&hue=255&ranking_display=cycle)](https://osu.ppy.sh/u/dotztv)
