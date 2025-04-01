@@ -18,4 +18,4 @@ todo: add known languages, someday
 ![Twitch Status](https://img.shields.io/twitch/status/tvdotz?style=for-the-badge)
 ---------------------------------------------------------------------------
 #### Just a test, these stats below are not important
-[url=https://osu.ppy.sh/u/dotztv][img]/skills?user=dotztv&mode=std&lang=en&round_avatar=true&animation=true&hue=255&ranking_display=cycle[/img][/url]
+<img src="/skills?user=dotztv&mode=std&lang=en&round_avatar=true&animation=true&hue=255&ranking_display=cycle" />
