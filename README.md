@@ -14,5 +14,4 @@ todo: add known languages, someday
 [![dotz's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dotz&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
  
 ---------------------------------------------------------------------------
-![GitHub followers](https://img.shields.io/github/followers/dotztv?color=i&style=for-the-badge)
 ![Twitch Status](https://img.shields.io/twitch/status/tvdotz?style=for-the-badge)
