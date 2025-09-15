@@ -1,10 +1,10 @@
 ----------------------------------------------------------------------------
 
-# Hi there! I'm dotzTV, aka dotz
-## A programmer from Poland/Norway
-Well, not a programmer just yet. It's a hobby on the side, alongside streaming and gaming
+# Hello! My name is dotzTV, or dotz for short
+## some random polish guy on the internet
 
-todo: add known languages, someday
+Quite honestly, it's not worth it listing languages i know / want to learn. it keeps changing, i mean im comfortable im python and can make basic websites in html and css.
+i've been wanting to learn kotlin (i never did), instead now my next goal is C
 
 #### These cool stats were made with anuraghazra's GitHub Readme Stats, It's repo can be found [here](https://github.com/anuraghazra/github-readme-stats).
 ----------------------------------------------------------------------------
